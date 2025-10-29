@@ -7,7 +7,7 @@
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/Amit4218/my_own_oauth
+git clone https://github.com/Amit4218/my_own_oauth.git
 cd my_own_oauth
 ```
 
@@ -42,8 +42,6 @@ flask --app main run
 ```
 
 #### Notes
-
-- Ensure you’re using Python 3.9+.
 
 - By default, the application runs at http://127.0.0.1:5000
 
